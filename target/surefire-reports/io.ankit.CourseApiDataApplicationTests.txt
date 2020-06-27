@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.ankit.CourseApiDataApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.181 s - in io.ankit.CourseApiDataApplicationTests
